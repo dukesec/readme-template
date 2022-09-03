@@ -137,9 +137,7 @@ http://www.spacex.com
 
 <br/>
 
-![miamalkova](https://user-images.githubusercontent.com/58501746/188273902-e652ef75-e7eb-4ef8-a9f0-d5d995f891e3.jpg)
 
-<br/>
 
 ### table sytax
 
