@@ -123,16 +123,14 @@ http://www.spacex.com
 
 ### Mia Malkova
 
-<!-- ![profile](./images/me.jpg) -->
-<img src="./images/miamalkova.JPG" width="400" title="profile image"/>
+![](images/miamalkova.jpg)
 😊
 
 <br/>
 
 ### Natasha Malkova
 
-<!-- ![profile](./images/me.jpg) -->
-<img src="./images/natashamalkova.JPG" width="400" title="profile image"/>
+![](images/natashamalkova.jpg)
 😊
 
 <br/>
